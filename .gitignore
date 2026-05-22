@@ -24,6 +24,10 @@ Thumbs.db
 # Jupyter
 .ipynb_checkpoints/
 
+# Generated outputs
+recursive_demo.png
+recursive_pipeline.png
+
 # Environment
 .env
 .env.local
